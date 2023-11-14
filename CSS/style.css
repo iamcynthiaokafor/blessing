@@ -1,0 +1,42 @@
+body {
+    background-color:white;
+    font-family: 'poppins', Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+
+.nav {
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 20px 0px 20px 0px;
+
+}
+.topnav {
+    margin-inline-start: auto;
+}
+
+a {
+    padding: 15px;
+}
+
+
+img {
+    float: left;
+    padding: 20px;
+}
+
+
+
+
+h1 {
+    text-align: center;
+    font-family: 'The Nautigal', Arial, Helvetica, sans-serif;
+    font-size: 5rem;
+}
+
+p {
+    text-align: justify;
+    padding: 0px 20px;
+}
